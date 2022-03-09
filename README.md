@@ -1,5 +1,5 @@
 # Python-Face-Detection
-Face Detection menggunakan bahasa pemrograman python
+Face Detection menggunakan bahasa pemrograman python.
 
 - Buat folder baru dengan nama "facefolder" tempatkan didalam folder dokumen.
 - Paste kedua file Face Detection.py dan Main Program.py yang sudah kamu download kedalam folder "facefolder" yang telah kamu buat tadi.
